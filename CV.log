@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.6)  7 SEP 2019 13:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.6)  2 OCT 2019 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,11 +537,11 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: A0BAE78F1A13EEA0DCE460365875D83B;537.
  ) 
 Here is how much of TeX's memory you used:
- 11940 strings out of 494805
- 174275 string characters out of 6178001
+ 11938 strings out of 494805
+ 174251 string characters out of 6178001
  293304 words of memory out of 5000000
  15081 multiletter control sequences out of 15000+600000
- 68900 words of font info for 71 fonts, out of 8000000 for 9000
+ 68770 words of font info for 70 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  43i,11n,56p,785b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
@@ -552,7 +552,7 @@ mf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmro17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV.pdf (1 page, 217762 bytes).
+Output written on CV.pdf (1 page, 218275 bytes).
 PDF statistics:
  87 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
