@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.17)  5 MAR 2021 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.1.2)  19 SEP 2021 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 5 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 6 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
 ocument class
@@ -1035,12 +1035,12 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 2BB855909D7212821734B4169B658B02;615.
  ) 
 Here is how much of TeX's memory you used:
- 29475 strings out of 494880
- 551516 string characters out of 6179601
- 614234 words of memory out of 5000000
- 32373 multiletter control sequences out of 15000+600000
- 595817 words of font info for 83 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 29477 strings out of 494847
+ 551536 string characters out of 6178852
+ 615283 words of memory out of 5000000
+ 32376 multiletter control sequences out of 15000+600000
+ 595900 words of font info for 84 fonts, out of 8000000 for 9000
+ 56 hyphenation exceptions out of 8191
  69i,12n,58p,10354b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/s
@@ -1050,7 +1050,7 @@ mf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/font
 s/type1/public/lm/lmro17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV.pdf (2 pages, 229129 bytes).
+Output written on CV.pdf (2 pages, 229804 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
