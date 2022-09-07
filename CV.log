@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  5 SEP 2022 14:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  7 SEP 2022 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -853,7 +853,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imgs//faceboo
 k.png> <./imgs//linkedin.png> <./imgs//tiny_github.png (PNG copy)> <./imgs//kag
 gle.png>]
-Overfull \hbox (2.32527pt too wide) in paragraph at lines 61--61
+Overfull \hbox (2.32527pt too wide) in paragraph at lines 62--62
  []|[][]
  []
 
@@ -885,10 +885,10 @@ e1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsl12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (2 pages, 198042 bytes).
+Output written on CV.pdf (2 pages, 198173 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
+ 128 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  32849 words of extra memory for PDF output out of 35830 (max. 10000000)
 
