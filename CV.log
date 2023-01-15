@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  7 SEP 2022 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  18 NOV 2022 13:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -853,7 +853,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imgs//faceboo
 k.png> <./imgs//linkedin.png> <./imgs//tiny_github.png (PNG copy)> <./imgs//kag
 gle.png>]
-Overfull \hbox (2.32527pt too wide) in paragraph at lines 62--62
+Overfull \hbox (2.32527pt too wide) in paragraph at lines 69--69
  []|[][]
  []
 
@@ -866,13 +866,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 2BB855909D7212821734B4169B658B02;615.
  ) 
 Here is how much of TeX's memory you used:
- 25714 strings out of 478040
- 496517 string characters out of 5843119
+ 25706 strings out of 478040
+ 496428 string characters out of 5843119
  816912 words of memory out of 5000000
- 43643 multiletter control sequences out of 15000+600000
- 478878 words of font info for 92 fonts, out of 8000000 for 9000
+ 43641 multiletter control sequences out of 15000+600000
+ 478399 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,14n,122p,999b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,12n,122p,999b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/tex
 live/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}<c:/texlive/2022
 /texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/te
@@ -885,10 +885,10 @@ e1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsl12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (2 pages, 198173 bytes).
+Output written on CV.pdf (2 pages, 198638 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
- 32849 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 30801 words of extra memory for PDF output out of 35830 (max. 10000000)
 
