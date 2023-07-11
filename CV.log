@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  18 NOV 2022 13:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  11 JUL 2023 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,12 +848,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 32.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
 [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imgs//faceboo
 k.png> <./imgs//linkedin.png> <./imgs//tiny_github.png (PNG copy)> <./imgs//kag
 gle.png>]
-Overfull \hbox (2.32527pt too wide) in paragraph at lines 69--69
+Overfull \hbox (2.32527pt too wide) in paragraph at lines 74--74
  []|[][]
  []
 
@@ -863,12 +878,12 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 2BB855909D7212821734B4169B658B02;615.
+(rerunfilecheck)             Checksum: 12339CB5245028AB2140D9FACEF82D6E;615.
  ) 
 Here is how much of TeX's memory you used:
  25706 strings out of 478040
- 496428 string characters out of 5843119
- 816912 words of memory out of 5000000
+ 496426 string characters out of 5843119
+ 821912 words of memory out of 5000000
  43641 multiletter control sequences out of 15000+600000
  478399 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -885,7 +900,7 @@ e1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsl12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (2 pages, 198638 bytes).
+Output written on CV.pdf (2 pages, 198062 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream
