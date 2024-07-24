@@ -2,27 +2,31 @@
 
 \nopagenumbers
 
-\usepackage{graphicx}
-\graphicspath{ {./imgs} }
+%\usepackage{graphicx}
+%\graphicspath{ {./imgs} }
 
 \usepackage[right = 3cm, left = 3cm, top = 2cm, bottom = 1cm]{geometry}
+\usepackage{xcolor}
 
+\definecolor{myblue}{RGB}{56,115,178}
 
 \moderncvstyle{classic}
-\moderncvcolor{purple}
+\moderncvcolor{blue}
 
 \firstname{Krystian}
-\familyname{Figiel}
+\lastname{\color{myblue}Figiel}
 
 \title{R\'esum\'e}
 \mobile{0048 605 526 063}
 \email{krystian.figiel@smcebi.edu.pl}
-\extrainfo{
-	\href{https://www.facebook.com/krystian.figiel.5}{\includegraphics[height=9pt,keepaspectratio]{facebook.png} \underline{Facebook} } 
-	\href{https://www.linkedin.com/in/krystian-figiel}{\includegraphics[height=9pt,keepaspectratio]{linkedin.png} \underline{LinkedIn} }
-	\href{https://github.com/The-Bambi}{\includegraphics[height=9pt, keepaspectratio]{tiny_github.png} \underline{GitHub} } 
+\social[github]{The-Bambi}
+\social[linkedin]{krystian-figiel}
+%\extrainfo{
+	%\href{https://www.facebook.com/krystian.figiel.5}{\includegraphics[height=9pt,keepaspectratio]{facebook.png} \underline{Facebook} } 
+	%\href{https://www.linkedin.com/in/krystian-figiel}{\includegraphics[height=9pt,keepaspectratio]{linkedin.png} \underline{LinkedIn} }
+	%\href{https://github.com/The-Bambi}{\includegraphics[height=9pt, keepaspectratio]{tiny_github.png} \underline{GitHub} } 
 	%\href{https://www.kaggle.com/thebambi}{\includegraphics[height=9pt, keepaspectratio]{kaggle.png} \underline{kaggle} } 
-}
+%}
 %\photo[64pt][0.4pt]{94031010592.jpg}
 
 \begin{document}
@@ -30,27 +34,56 @@
 
 
 \section{Experience}
-	\cventry{May 2023 -\\curr.}{AI Developer}{UBS Buissness Solutions}{Cracow}{}{Model development and maintenance in Domino Data Lab, researching implementation of AI solutions, constructing and presenting proofs of concepts}
-	\cventry{July 2021 -\\May 2023}{Data Engineer}{UBS Buissness Solutions}{Cracow}{}{Designing and maintaining ELT pipelines in PySpark and Airflow, in cooperation with data analysts, constructing automated data quality checks}
-	\cventry{Mar 2020 -\\Feb 2021}{Technical Student}{European Organisation for Nuclear Research CERN}{Geneva}{}{Automating migration of data in Python between databases using APIs, creating a library for a hardware database}
-	\cventry{Aug - Sep 2019}{Intern}{jlabs software specialists}{Krakow}{}{Data engineering and implementation of machine learning system, work with AGILE methodology, public presentation covering the basics of machine learning and the project}
-	%\cventry{Nov - Dec 2018}{Media Information Desk Clerk}{COP24}{Katowice}{}{Pursuit and distribution of informations, work in a small team}
+	\cventry{May 2023 - curr.}{AI Developer}{UBS Buissness Solutions}{Cracow}{}{
+\begin{itemize}
+\item CI/CD pipeline maintenance in gitlab
+\item Development of machine learning and rule-based models according to established project requirements
+\item Maintenance of projects after a take-over and adjustments to new requirements
+\item Development and maintenance of reusable tool to measure model performace
+\item Conducting and presenting proofs-of-concept of LLMs
+\item Model documentation, revalidation
+% Model development and maintenance in Domino Data Lab, researching implementation of AI solutions, constructing and presenting proofs of concepts
+\end{itemize}}
+	\cventry{July 2021 - May 2023}{Data Engineer}{UBS Buissness Solutions}{Cracow}{}{
+\begin{itemize}
+\item Implementation of ETL pipelines with PySpark and SQL
+\item Job scheduling with Airflow
+\item DQ checks construction in cooperation with data analysts
+\end{itemize}
+% Designing and maintaining ELT pipelines in PySpark and Airflow, in cooperation with data analysts, constructing automated data quality checks
+}
+	\cventry{Mar 2020 -\\Feb 2021}{Technical Student}{European Organisation for Nuclear Research CERN}{Geneva}{}{
+\begin{itemize}
+\item Legacy code analysis and reviewal
+\item Development of Python library for a hardware database
+\item Working with both ReST \& SOAP API
+% Automating migration of data in Python between databases using APIs, creating a library for a hardware database
+\end{itemize}
+}
+	\cventry{Aug - Sep 2019}{Intern}{jlabs software specialists}{Cracow}{}{
+\begin{itemize}
+\item Introduction to AGILE methodology
+\item Implementation of a machine learning system
+\item Public presentation covering basis of machine learning
+% Data engineering and implementation of machine learning system, work with AGILE methodology, public presentation covering the basics of machine learning and the project
+\end{itemize}
+}
 \hfill \break
 \section{Education}
 	\cventry{2016 - 2020}{Bachelor of Engineering}{Applied Computer Science}{University of Silezia}{Katowice}{Thesis: \textit{Machine Learning methods for the clusterization in the NA61/SHINE experiment}}
 	\cventry{2017 - 2019}{Master of Arts}{Cello}{Academy of Music}{Katowice}{Thesis: \textit{Analysis of Igor Stravinsky's "Suite Italienne" in terms of its origin and the technical problems it contains}}
 \hfill \break
 \section{Computer skills}
-	\cvitem{Programming}{Python (\textit{PySpark, pandas, scipy, keras, TensorFlow, matplotlib, plotly, OpenAI API, transmission, PIL}), SQL, C, bash, \LaTeX }
-	\cvitem{Systems}{kedro, gitlab CI/CD, Domino DataLab, airflow, jupyter-lab}
-	\cvitem{Other}{VCS - git, ReST \& SOAP API, proficiency with Microsoft Office\break and bash terminal}
+	\cvitem{Programming}{Python (\textit{PySpark, pandas, scipy, keras, TensorFlow, matplotlib, plotly, openai, click, PIL}), SQL, C, bash, \LaTeX }
+	\cvitem{Tools}{kedro, gitlab CI/CD, Domino DataLab, airflow, jupyter-lab}
+	\cvitem{Other}{ReST \& SOAP API, proficiency with Microsoft Office\break and bash terminal}
 \hfill \break
+\newpage
+
 \section{Languages}
 	\cvitem{English}{ - advanced (C1)}
 	\cvitem{French}{ - intermediate (B1)}
 	\cvitem{Finnish}{ - beginner (A1)}
-
-\newpage
 
 \section{Courses} 
 
